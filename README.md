@@ -23,3 +23,4 @@ The project consists of two main stages:
 
 ## Datasets
 - The raw and intermediate datasets are large and available separately on [Yandex Disk](https://disk.yandex.com/d/EGHi7eWtsn3Vvw).  
+- Dataset used in the final stage is available on [Yandex Disk](https://disk.360.yandex.ru/d/sF4_RGWqamx0Hw)
